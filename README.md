@@ -6,11 +6,11 @@
   Hey there! I'm a 3rd year Computer Science student from India aiming to sustain my goal of constant improvement. A lot of my projects that you'll see here was simply a result of me trying to figure out a novel technology and deciding to make something to challenge myself. Let me know about your ideas!
 </p>
 
-<h3 align="left">Currently working on</h3>
+<h3 align="left">Presently working on?</h3>
 <p align="left">
- I am working on learning web technologies like VueJS, Express and Axios to round out my tech stack. I also have a chess simulator, Caissa, that I want to keep working on and a lot more projects in my future.
+ I am learning web technologies like VueJS, Express and Axios to round out my tech stack. I also have a chess simulator, Caissa, that I want to keep working on and a lot more projects in my future.
 
-I’m looking to collaborate on more open source projects to hone my skillset as well as advance my career by doing internships.
+I’m looking to collaborate on more open source projects to hone my skillset as well as advance my career by doing internships. I'm currently developing a fullstack application for attempting and managing quizes (currently named Quake) over at my <a href="https://github.com/22f3003212">IITM</a> account.
 </p>
 
 <h3 align="left">Links:</h3>

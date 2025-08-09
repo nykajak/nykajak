@@ -10,7 +10,7 @@
 <p align="left">
  I am learning web technologies like Next, Typescript and shadcn to round out my tech stack. I also have a chess simulator, Caissa, that I want to keep working on and a lot more projects in my future.
 
-I’m looking to collaborate on more open source projects to hone my skillset as well as advance my career by doing internships. I have finished developing a fullstack application using Flask and Vue for attempting and managing quizes (currently named Quake) over at my <a href="https://github.com/22f3003212">IITM</a> account to be released when I am allowed to. Currently my focus is on gaining as much experience as I can and I'm working as a project intern for HPE. My latest project idea is slowly taking form and is going to be a showcase of my fullstack skills.
+I’m looking to collaborate on more open source projects to hone my skillset as well as advance my career by doing internships. I have recently finished developing a fullstack application using Flask and Vue for attempting and managing quizes (currently named Quake) over at my <a href="https://github.com/22f3003212">IITM</a> account which is located within this account now. My focus is on gaining as much experience as I can, and my latest work experience was working as a project intern for HPE as part of the CPP program. 
 </p>
 
 <h3 align="left">Links:</h3>
